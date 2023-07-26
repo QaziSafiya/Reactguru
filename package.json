@@ -1,0 +1,33 @@
+{
+  "name": "react-guru",
+  "version": "1.0.0",
+  "description": "react guru",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safiya-siddiqui/reactguru.git"
+  },
+  "keywords": [],
+  "author": "safiya qazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safiya-siddiqui/react-guru/issues"
+  },
+  "homepage": "https://github.com/safiya-siddiqui/react-guru#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList":[
+    "last 2 versions"
+  ]
+}
